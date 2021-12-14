@@ -1,4 +1,4 @@
-# TBZ Modul 231
+# Michels Portfolio - Modul 231
 
 # Inhaltsverzeichnis
 - [Journal](01_Journal.md)
