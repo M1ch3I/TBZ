@@ -14,4 +14,4 @@
 
 # Entscheidung
 
-Da mein Vater Informatiker ist, verwendet er auch einen Passwortmanager und konnte mir klare Vorschläge machen. Somit konnte ich die Auswahl gut einschränken. Ich habe mich anschliessend entschlossen, KeePass 2 und Keeper Security zu vergleichen in einem Entscheidungsmatrix. Da KeePass 2 gewonnen hat und gratis ist, war der Entscheid klar.
+Weil in meinem Umfeld sich jemand sehr mit Verschlüsselungen auskennt, konnte ich einfach an gute VVorschläge für Passwortmanager herankommen. Somit konnte ich die Auswahl gut einschränken. Ich habe mich anschliessend entschlossen, KeePass 2 und Keeper Security zu vergleichen in einem Entscheidungsmatrix. Da KeePass 2 gewonnen hat und gratis ist, war der Entscheid klar.
