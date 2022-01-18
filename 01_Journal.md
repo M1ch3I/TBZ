@@ -16,3 +16,15 @@ Ausserdem habe ich heute den Passwort-manager Keepass eingerichet.
 Diese Woche ging es viel um Social Media.
 Wir haben uns Datenschutzrichlinien von Plattformen angeschaut und Präsentationen dazu gehalten.
 Zum Schluss der Lektionen haben wir einen Film bezüglich den Richtlinien von Social Media geschaut.
+
+# day 4 07.12.2021:
+
+
+
+# day 5 14.12.2021:
+
+# day 6 04.01.2022:
+
+# day 7 11.01.2022:
+
+# day 8 18.01.2022
