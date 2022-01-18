@@ -18,3 +18,13 @@ Bei der Gewichtung habe ich mit einer Bandbreite von 1-5 gearbeitet. Je höcher 
 # Entscheidung
 
 Weil in meinem Umfeld sich jemand sehr mit Verschlüsselungen auskennt, konnte ich einfach an gute VVorschläge für Passwortmanager herankommen. Somit konnte ich die Auswahl gut einschränken. Ich habe mich anschliessend entschlossen, KeePass 2 und Keeper Security zu vergleichen in einem Entscheidungsmatrix. Da KeePass 2 gewonnen hat und gratis ist, war der Entscheid klar.
+
+# Installation
+
+1. Gehe zu https://keepass.info/download.html
+2. Wähle die bevorzugte Version und klicke anschliessend auf "Download Now".
+3. Öffne die App.
+
+# Einrichtung
+
+Mit der Einrichtung bin ich nicht ganz fertig, da meine derzeitige Passwortverwaltung sehr unstrukturiert ist. Manche Passwörter habe ich auf dem Handy gespeichert, während ich andere auf dem Laptop gespeichert hatte. Bis jetzt habe ich diese des Laptops auf Keepass übernommen, da ich noch keine Zeit für die restlichen Passwörter hatte. Ich habe mich beschlossen, dass ich alle Passwörter in derselben Datei speichere, sodass ich alles am selben Ort habe. 
