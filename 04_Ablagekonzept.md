@@ -1,3 +1,10 @@
 # Ablagekonzept
 
 # Meine Datenablagen und Services
+
+| Gerät (Speicherort) | Betriebssystem | Applikation | Art der Daten      | Auf zentralem Server gespeichert | User friendly privacy prolicy | Folgen von Datenverlust (/Zugriffsverlust)     | Folgen von Datendiebstahl                       | Backup vorhanden? | Art des Backups                | Häufigkeit des Backups | Massnahmen        |
+| ------------------- | -------------- | ----------- | ------------------ | -------------------------------- | ----------------------------- | ---------------------------------------------- | ----------------------------------------------- | ----------------- | ------------------------------ | ---------------------- | ----------------- |
+| Iphone 8            | IOS            | WhatsApp    | Chats/Gruppenchats | Ja, ohne Medien                  | Nein                          | Kommunikation kann nicht nachvollzogen werden. | Private Daten und Fotos mit Freunden und Kunden | Ja                | Automatisch auf WhatsApp Konto | Monatlich              | N/A               |
+| Iphone 8            | IOS            | Instagram   | Öffentliche Fotos  | Ja                               | Nein                          | Keine                                          | Keine                                           | Nein              | N/A                            | N/A                    | Backup erstellen  |
+| Asus Vivobook       | Windows        | Discord     | Chats/Gruppenchats | Ja                               | Nein                          | Kommunikation kann nicht nachvollzogen werden. | Private Daten und Fotos mit Freunden und Kunden | Nein              | N/A                            | N/A                    | Backup erstellen  |
+| Asus Vivobook       | Windows        | Outlook     | Mails              | Ja                               | Ja                            | Email Zugriff verweigert.                      | Private Daten und Kontakt Verlust               | Ja                | Auf Laptop                     | Einmal                 | Häufigere Backups |
