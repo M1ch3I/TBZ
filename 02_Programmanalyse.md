@@ -33,3 +33,4 @@ Twitter Datenspeicherort:
 
 Verwendung von Personendaten: 
 - https://twitter.com/en/privacy
+- https://docs.google.com/presentation/d/1uKo-CaLJb5F2JeKM1fl4SGlfSBLfP1U0d4BQ1CmU05s/edit#slide=id.g1055b3ea26f_33_5
