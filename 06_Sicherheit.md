@@ -7,11 +7,11 @@
 # Checkliste des Datenschutzbeauftragten:
 
 ## 01 Installieren Sie alle Updates
-Ja, ich habe Programme und das Betriebssystem auf dem neusten Stand.
+Ich habe Programme und das Betriebssystem auf dem neusten Stand.
 
 
 ## 02 Verwenden Sie starke Passwörter
-Ja, ich verwende starke Passwörter (Mind. 1 Zahl, 2 Sonderzeichen, Gross- und klein Buchstaben, nicht zusammenhängende Wörter). Für jeden Dienst verwende ich ein anderes Passwort.
+Ich verwende starke Passwörter (Mind. 1 Zahl, 2 Sonderzeichen, Gross- und klein Buchstaben, nicht zusammenhängende Wörter). Für jeden Dienst verwende ich ein anderes Passwort.
 
 ## 03 Geben Sie Passwörter nicht weiter
 Ich gebe keine Passwörter weiter, die persönlich und nur für mich sind.
