@@ -2,7 +2,7 @@
 
 # Inhaltsverzeichnis <!-- omit in toc -->
 - [1. Checkliste des Datenschutzbeauftragten](#1-checkliste-des-datenschutzbeauftragten)
-- [2. Individuelle Quelle](#2-individuelle-quelle)
+- [2. Individuelle Quelle](#2-https://datenschutz.ch/meine-daten-schuetzen/daten-im-homeoffice-schuetzen)
 
 # 01 Installieren Sie alle Updates
 Ja, ich habe Programme und das Betriebssystem auf dem neusten Stand.
